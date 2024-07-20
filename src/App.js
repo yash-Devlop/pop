@@ -21,7 +21,7 @@ const App = () => {
       <Route path='/shows/' element={<Shows/>}/>
     
 
-    //changes
+    
     </Routes>
     <Footer/>
     </div>
