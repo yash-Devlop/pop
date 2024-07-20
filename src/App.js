@@ -19,7 +19,9 @@ const App = () => {
       <Route path="/Search/:moviename" element={<Search/>}/>
       <Route path='/movie/:movie_id' element={<Movie/>}/>
       <Route path='/shows/' element={<Shows/>}/>
-      
+    
+
+    //changes
     </Routes>
     <Footer/>
     </div>
